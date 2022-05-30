@@ -27,7 +27,7 @@
 				<version>2.20</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>samplejenk.xml</suiteXmlFile>
+						<suiteXmlFile>testngsamplejenk.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
