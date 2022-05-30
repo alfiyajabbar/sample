@@ -27,7 +27,7 @@
 				<version>2.20</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>testngsanity.xml</suiteXmlFile>
+						<suiteXmlFile>samplejenk.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
